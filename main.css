@@ -27,9 +27,18 @@
 
   .eggyimg{
     width:100%;
-
-
   }
+
+.NeoDeck{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color:rgba(58, 57, 57, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  box-shadow: 3px 3px 5px 3PX white;
+}
+
   button {
     border: none;
     outline: 0;
